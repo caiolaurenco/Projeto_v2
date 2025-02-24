@@ -1,0 +1,50 @@
+body {
+    background-color: #1c1c1c;
+    color: #f1c40f;
+    font-family: 'Comic Sans MS', sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #000;
+    padding: 10px;
+}
+
+header h1 {
+    color: #f1c40f;
+    font-size: 36px;
+}
+
+header img {
+    width: 150px;
+}
+
+section {
+    margin: 40px 20px;
+    padding: 20px;
+    background-color: #443939;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #e9cb1d;
+}
+
+.aliado, .vilao {
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+}
+
+.aliado img, .vilao img {
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #000;
+    padding: 10px;
+    color: #f1c40f;
+    font-size: 14px;
+}
